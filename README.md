@@ -1,9 +1,10 @@
 # dataset
 
-## training dataset for the first stage
+## A. training dataset for the first stage
 [COCO dataset](https://cocodataset.org/#download)
 
-## training dataset for the second stage
+## B. training dataset for the second stage
+[HazeScene dataset](https://cocodataset.org/#download)
 
-
-## test dataset
+## C. test dataset
+[test dataset](https://cocodataset.org/#download)
