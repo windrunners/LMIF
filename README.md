@@ -7,4 +7,4 @@
 [HazeScene dataset](https://github.com/windrunners/HazeScene-dataset)
 
 ## C. test dataset
-[test dataset](https://cocodataset.org/#download)
+[test dataset](https://drive.google.com/file/d/1TAmbY2emQgSJNgVq0Df2Jyx5kllHCqG2/view?usp=drive_link)
